@@ -1,0 +1,36 @@
+h1{
+    color: navy;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.container{
+    text-align: center;
+    font-size: larger;
+
+}
+.instructions{
+    text-align: center;
+}
+#rock{
+    background-color: rgb(66, 66, 66);
+    color: white;
+    font-size: larger;
+}
+#paper{
+    background-color: beige;
+    color: rgb(107, 70, 22);
+    font-size: larger;
+}
+#scissors{
+    background-color: rgb(214, 95, 95);
+    color: white;
+    font-size: larger;
+}
+.playground{
+    text-align: center;
+    padding-top: 20px;
+    margin: auto;
+}
+.playtext{
+    text-align: center;
+}
